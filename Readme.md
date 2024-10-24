@@ -1,34 +1,3 @@
-Clonando repositório
-```
-git clone https://github.com/brunopaiva1/gpt2.git
-```
-Criar ambiente virtual:
-```
-python3 -m venv myvenv
-```
-Inicializando ambiente virtual:
-```
-source myvenv/bin/activate
-```
-Instalando modulos e dependências:
-```
-pip install -r requirements.txt
-```
-Execução do programa:
-```
-python gpt2.py
-```
+O GPT-2 small portuguese é um modelo de língua para português baseado no pequeno modelo do GPT-2, mais informações podem ser encontradas no seguinte link: https://huggingface.co/pierreguillou/gpt2-small-portuguese. O modelo apresentado nesse projeto, é uma melhoria no treinamento do GPT-2 small portuguese.
 
-Exemplos de saídas geradas pelo programa:
-
->> Generated text 1
-
-`Quem era Pelé? Pelé era um craque.`
-
->> Generated text 2
-
-`Quem era Pelé? Pelé era um jogador de futebol que jogava como atacante.`
-
->> Generated text 3
-
-`Quem era Pelé? Pelé era um jovem com apenas 18 anos. Os dirigentes de Santos acreditavam que era um jovem que iria se tornar ídolo do time.`
+GPT-2 small Portuguese is a language model for Portuguese based on the GPT-2 small model, more information can be found at the following link: https://huggingface.co/pierreguillou/gpt2-small-portuguese. The model presented in this project is an improvement on the training of GPT-2 small Portuguese.
